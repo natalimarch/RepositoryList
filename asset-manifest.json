@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/repository-list/static/css/main.ad81601d.css",
+    "main.js": "/repository-list/static/js/main.b192791e.js",
+    "static/media/image.jpg": "/repository-list/static/media/image.b598658ba4686c9b5b6c.jpg",
+    "static/media/GoldStar.png": "/repository-list/static/media/GoldStar.994dc35157d8e28ab5af.png",
+    "index.html": "/repository-list/index.html",
+    "main.ad81601d.css.map": "/repository-list/static/css/main.ad81601d.css.map",
+    "main.b192791e.js.map": "/repository-list/static/js/main.b192791e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad81601d.css",
+    "static/js/main.b192791e.js"
+  ]
+}
