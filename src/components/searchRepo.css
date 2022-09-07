@@ -1,0 +1,43 @@
+.Form {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Input {
+    width: 400px;
+    padding: 12px 20px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    border: 1px solid #373854;
+    border-radius: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    color: #373854;
+    
+}
+
+.Input::placeholder {
+    font-size: 16px;
+    color: #C1D5EE;
+}
+
+.FormBtn {
+    margin: 10px 0;
+    padding: 10px 20px;
+    width: 100px;
+    background: radial-gradient(circle, rgba(193,213,238,1) 0%, rgba(145,168,208,1) 100%);
+    border: 1px solid #373854;
+    border-radius: 20px;
+    color: #373854;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    cursor: pointer;
+}
+
+.FormBtn:hover,
+.FormBtn:focus {
+    background: none;
+    background-color: #FFC0CB;
+}

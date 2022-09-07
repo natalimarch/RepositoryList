@@ -1,0 +1,19 @@
+.Page {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+
+.Pages {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Page.active {
+    color: #FFC0CB;
+}

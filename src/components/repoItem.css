@@ -1,0 +1,41 @@
+.List {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    font-size: 20px;
+    color: #373854;
+  
+}
+
+.Item {
+    display: flex;
+    width: 600px;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    border: 2px #373854;
+    border-radius: 10px;
+    background: radial-gradient(circle, rgba(193,213,238,0.7) 0%, rgba(145,168,208,0.7) 100%);
+    font-size: 26px;
+    line-height: 1;
+}
+
+.Score {
+    margin-left: auto;
+}
+
+.ScoreItem {
+    margin-left: 10px;
+    font-size: 20px;
+
+}
+
+.Link {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #373854;
+    font-size: 20px;
+}
