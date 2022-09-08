@@ -9,10 +9,6 @@ export interface RepoState {
     totalCount: number
 }
 
-export interface IQuery {
-    value: string;
-}
-
 export interface searchState {
     value: string;
     clickHandler(e: React.MouseEvent<HTMLButtonElement>): void;
